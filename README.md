@@ -1,14 +1,18 @@
 ## Hi there, I'm Sead feng 👋
 
-🌱 I’m currently learning full-stack
+🌱 I’m currently learning full-stack , Web dev.
+
+## Commonly used
 
 - Ruby on Rails
 - Python
+- Bash
 - PHP
 - Nodejs
 - Nextjs
 - Expressjs
 - Javascript
+- TypeScript
 - React
 
 ## Database
