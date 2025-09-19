@@ -33,7 +33,6 @@
 
 ### Web scrapers
 
-- [cheerio-tree](https://github.com/serping/cheerio-tree)
 - [express-scraper](https://github.com/serping/express-scraper)
 
 <a href="https://github-readme-stats.vercel.app/api?username=seadfeng">
